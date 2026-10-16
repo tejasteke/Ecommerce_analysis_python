@@ -2,6 +2,8 @@
 
 An exploratory data analysis of store sales and profit, done in a Jupyter Notebook with Python. The analysis looks at how sales and profit change across **time, product categories, sub-categories and customer segments**, to find what drives revenue and where money is being lost.
 
+Note: i didn't save graph as png in ipynb so that's why  it's not visible in Ecommerce.ipynb so i uploaded new Ecommerce_all_graph file all graph are visible here.
+
 ## Tools Used
 
 - Python
